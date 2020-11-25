@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/reactcodepen/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/reactcodepen/static/js/main.94c6ff98.chunk.js",
-    "main.js.map": "/reactcodepen/static/js/main.94c6ff98.chunk.js.map",
-    "runtime-main.js": "/reactcodepen/static/js/runtime-main.0b08ca64.js",
-    "runtime-main.js.map": "/reactcodepen/static/js/runtime-main.0b08ca64.js.map",
-    "static/js/2.563f16ad.chunk.js": "/reactcodepen/static/js/2.563f16ad.chunk.js",
-    "static/js/2.563f16ad.chunk.js.map": "/reactcodepen/static/js/2.563f16ad.chunk.js.map",
-    "static/js/3.8a2048a5.chunk.js": "/reactcodepen/static/js/3.8a2048a5.chunk.js",
-    "static/js/3.8a2048a5.chunk.js.map": "/reactcodepen/static/js/3.8a2048a5.chunk.js.map",
+    "main.css": "/reactcodepen/static/css/main.bbf66ec0.chunk.css",
+    "main.js": "/reactcodepen/static/js/main.54f49b49.chunk.js",
+    "main.js.map": "/reactcodepen/static/js/main.54f49b49.chunk.js.map",
+    "runtime-main.js": "/reactcodepen/static/js/runtime-main.90037a90.js",
+    "runtime-main.js.map": "/reactcodepen/static/js/runtime-main.90037a90.js.map",
+    "static/css/2.e980ac4b.chunk.css": "/reactcodepen/static/css/2.e980ac4b.chunk.css",
+    "static/js/2.7203dd13.chunk.js": "/reactcodepen/static/js/2.7203dd13.chunk.js",
+    "static/js/2.7203dd13.chunk.js.map": "/reactcodepen/static/js/2.7203dd13.chunk.js.map",
     "index.html": "/reactcodepen/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/reactcodepen/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.563f16ad.chunk.js.LICENSE.txt": "/reactcodepen/static/js/2.563f16ad.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/reactcodepen/static/media/logo.6ce24c58.svg"
+    "precache-manifest.17a091cff25fd511ec6598d4b4059f59.js": "/reactcodepen/precache-manifest.17a091cff25fd511ec6598d4b4059f59.js",
+    "service-worker.js": "/reactcodepen/service-worker.js",
+    "static/css/2.e980ac4b.chunk.css.map": "/reactcodepen/static/css/2.e980ac4b.chunk.css.map",
+    "static/css/main.bbf66ec0.chunk.css.map": "/reactcodepen/static/css/main.bbf66ec0.chunk.css.map",
+    "static/js/2.7203dd13.chunk.js.LICENSE.txt": "/reactcodepen/static/js/2.7203dd13.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0b08ca64.js",
-    "static/js/2.563f16ad.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.94c6ff98.chunk.js"
+    "static/js/runtime-main.90037a90.js",
+    "static/css/2.e980ac4b.chunk.css",
+    "static/js/2.7203dd13.chunk.js",
+    "static/css/main.bbf66ec0.chunk.css",
+    "static/js/main.54f49b49.chunk.js"
   ]
 }
